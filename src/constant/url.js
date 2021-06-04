@@ -1,0 +1,1 @@
+export default URL = "https://afrikan-api.herokuapp.com/"
